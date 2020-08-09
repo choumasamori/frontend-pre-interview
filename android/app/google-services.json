@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1036354784770",
+    "firebase_url": "https://hongkongflight.firebaseio.com",
+    "project_id": "hongkongflight",
+    "storage_bucket": "hongkongflight.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036354784770:android:a8f2e219c93e6c0915211b",
+        "android_client_info": {
+          "package_name": "com.hongkongair"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036354784770-3qn0fjhjbafv54m118d48ocfavlq12qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUufVw3a9RPpMYz_KvwPjjeHh21Dy7a34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036354784770-3qn0fjhjbafv54m118d48ocfavlq12qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036354784770:android:3cc63e4d738c28c515211b",
+        "android_client_info": {
+          "package_name": "com.hongkongflight"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1036354784770-3qn0fjhjbafv54m118d48ocfavlq12qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUufVw3a9RPpMYz_KvwPjjeHh21Dy7a34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1036354784770-3qn0fjhjbafv54m118d48ocfavlq12qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
